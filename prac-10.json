@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Nishant Vaghasiya",
+    "department": "Computer Science",
+    "enrollment_no": "220763107016"
+  },
+  {
+    "name":"Vihar Dobariya",
+    "department": "Electrical Engineering",
+    "enrollment_no": "220763107001"
+  },
+  {
+    "name": "Raj samani",
+    "department": "Mechanical Engineering",
+    "enrollment_no": "210703107012"
+  },
+  {
+    "name": "Divyesh Dobariya",
+    "department": "Chemical Engineering",
+    "enrollment_no": "210703108010"
+  },
+  {
+    "name": "Priya Sharma",
+    "department": "Mechanical Engineering",
+    "enrollment_no": "210703108008"
+  },
+  {
+    "name": "Jiya Yadav",
+    "department": "Mechanical Engineering",
+    "enrollment_no": "220763107069"
+  }
+]
